@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Eu sou o Brunno Faria 🧑🏻‍💻
 
-<!--
-**BrunnoFaria/brunnofaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho com mercado financeiro.
+- 🌱 Estou estudando front e backend.
+- 👯 Estou colaborando com alguns projetos de front e back.
 
-Here are some ideas to get you started:
+<div>
+<a href ="https://github.com/BrunnoFaria"> 
+ <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=brunnofaria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div
+            <i class="devicon-html5-plain colored"></i>
+</div>
+          
