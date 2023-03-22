@@ -20,7 +20,7 @@
   <a href = "https://www.linkedin.com/in/brunnofaria" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-thebadge&logo=linkedin&logoColor=wtite" target="_blank"></a> 
  <a href = "mailto:brunnofaria@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-thebadge&logo=gmail&logoColor=wtite" target="_blank"></a>
  
-![Snake animation](https://github.com/brunnofaria/brunnofaria/blob/output/github-contribution-grid-snake.svg)
+! [Snake animation](https://github.com/brunnofaria/brunnofaria/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
