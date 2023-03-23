@@ -5,9 +5,9 @@
 - 👯‍♂️ Estou colaborando com alguns projetos de front e back.
 
 <div align="center">
-  <a href="https://github.com/BrunnoFaria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunnoFaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoFaria&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/brunnofaria">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunnofaria&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunnofaria&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: inline_block"><br>
