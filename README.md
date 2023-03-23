@@ -28,7 +28,7 @@
   
  
  
-  ![Snake animation](https://github.com/brunnofaria/brunnofaria/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/BrunnoFaria/brunnofaria/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
