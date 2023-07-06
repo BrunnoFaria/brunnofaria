@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com mercado financeiro.
 - 🌱 Estou estudando front e backend.
-- 👯‍♂️ Estou colaborando com alguns projetos de front e back.
+- 👯‍♂️ Estou colaborando em projetos de front e back-end.
 
 <div align="center">
   <a href="https://github.com/BrunnoFaria">
